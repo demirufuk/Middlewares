@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qUr3WdsV/WQZD9WNqM6kaapWnZfh099yWCnlf82GsXmyp6NpdEzvXT9Nx6CWTAOlkRLKtWu46w84NLskGYxJOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\u.demir\\source\\repos\\Middlewares\\Middlewares\\Middlewares.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\u.demir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
